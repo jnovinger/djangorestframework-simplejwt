@@ -8,15 +8,15 @@ Simple JWT
    :target: https://github.com/jazzband/djangorestframework-simplejwt/actions
    :alt: GitHub Actions
 .. image:: https://codecov.io/gh/jazzband/djangorestframework-simplejwt/branch/master/graph/badge.svg
-  :target: https://codecov.io/gh/jazzband/djangorestframework-simplejwt
+   :target: https://codecov.io/gh/jazzband/djangorestframework-simplejwt
 .. image:: https://img.shields.io/pypi/v/djangorestframework-simplejwt.svg
-  :target: https://pypi.python.org/pypi/djangorestframework-simplejwt
+   :target: https://pypi.python.org/pypi/djangorestframework-simplejwt
 .. image:: https://img.shields.io/pypi/pyversions/djangorestframework-simplejwt.svg
-  :target: https://pypi.python.org/pypi/djangorestframework-simplejwt
+   :target: https://pypi.python.org/pypi/djangorestframework-simplejwt
 .. image:: https://img.shields.io/pypi/djversions/djangorestframework-simplejwt.svg
-  :target: https://pypi.python.org/pypi/djangorestframework-simplejwt
+   :target: https://pypi.python.org/pypi/djangorestframework-simplejwt
 .. image:: https://readthedocs.org/projects/django-rest-framework-simplejwt/badge/?version=latest
-  :target: https://django-rest-framework-simplejwt.readthedocs.io/en/latest/
+   :target: https://django-rest-framework-simplejwt.readthedocs.io/en/latest/
 
 Abstract
 --------
